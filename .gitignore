@@ -1,0 +1,5 @@
+.vs/
+x64/
+IMS/x64
+IMS/libxl.dll
+IMS/IMS.vcxproj.user
